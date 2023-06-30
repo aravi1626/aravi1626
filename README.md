@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravinthraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Exclusible](https://github.com/exclusible)
+- 🔭 I’m currently working on [Taka Solutions](https://app.takatechnology.com/)
 
 - 🌱 I’m currently learning **solidity and nest js**
 
